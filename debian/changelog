@@ -1,3 +1,9 @@
+libkml (1.3.0-9deepin0) unstable; urgency=medium
+
+  * No source change upload against GCC 12.
+
+ -- Tianyu Chen <sweetyfish@deepin.org>  Fri, 20 Sep 2024 14:12:35 +0800
+
 libkml (1.3.0-9) unstable; urgency=medium
 
   * Bump Standards-Version to 4.5.0, no changes.
